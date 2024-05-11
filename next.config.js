@@ -9,7 +9,7 @@ const nextConfig = {
     ],
   },
   experimental: {
-    serverActions: true,
+    serverActions: false,
   },
   output: "export",
   basePath: "/akhandmishratruth.github.io",

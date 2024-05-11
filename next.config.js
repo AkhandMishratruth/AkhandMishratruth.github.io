@@ -11,6 +11,9 @@ const nextConfig = {
   experimental: {
     serverActions: true,
   },
+  output: "export",
+  basePath: "/akhandmishratruth.github.io",
+
 };
 
 module.exports = nextConfig;
